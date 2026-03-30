@@ -25,7 +25,7 @@ The Archaeologist runs five procedures and produces one report:
 Add `SKILL.md` to your project's `.claude/` directory, or paste the contents into your Claude system prompt.
 
 ```bash
-curl -O https://raw.githubusercontent.com/themeridianlab/git-archaeologist/main/SKILL.md
+curl -O https://raw.githubusercontent.com/mattmayberry/git-archaeologist/main/SKILL.md
 ```
 
 ---
@@ -98,6 +98,12 @@ ACTION ITEMS
 - Pattern matching is heuristic: will produce false positives on example/placeholder values
 - Binary files are excluded from scanning
 - Commit message analysis indicates tendencies, not certainties
+
+---
+
+## Want More?
+
+This free skill is a sample of the full **[Git Archaeologist: Full Program Edition](https://www.shopclawmart.com/listings/9d9f2537-c618-436b-a657-c32be157aecb)** ($49 on ClawMart) — adds a persistent FINDINGS.md log with structured triage workflow, a credential rotation checklist generator for every secret found in history, Greyline: Warden integration so findings route into your security program, and scheduled delta scanning that only surfaces what's new since your last run.
 
 ---
 
